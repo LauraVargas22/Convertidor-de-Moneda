@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\bin\Debug\net8.0\convertCurrency.exe
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\bin\Debug\net8.0\convertCurrency.deps.json
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\bin\Debug\net8.0\convertCurrency.runtimeconfig.json
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\bin\Debug\net8.0\convertCurrency.dll
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\bin\Debug\net8.0\convertCurrency.pdb
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.dll
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\refint\convertCurrency.dll
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.pdb
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\convertCurrency.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\obj\Debug\net8.0\ref\convertCurrency.dll
