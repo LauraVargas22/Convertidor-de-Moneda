@@ -1,6 +1,9 @@
 ﻿using System.Globalization;
+
+using convertCurrency;
 internal class Program
 {
+    public static bool continuar;
     private static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -54,6 +57,9 @@ internal class Program
                     break;
             }
 
-        } while (true);
+            Console.WriteLine("¿Desea continuar? (S/N)");
+            continuar = Utilidades.LeerTecla();
+
+        } while (continuar);
     }
 }

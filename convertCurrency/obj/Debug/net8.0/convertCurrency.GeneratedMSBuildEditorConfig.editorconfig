@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = convertCurrency
-build_property.ProjectDir = C:\Users\USUARIO\Documents\CAMPUSLANDS\projectsNet\convertCurrency\
+build_property.ProjectDir = C:\Users\USUARIO\Convertidor-de-Moneda\convertCurrency\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
